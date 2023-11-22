@@ -1,3 +1,6 @@
-var = "Hola mundo"
+x = 5
+y = 10
 
-print(var)
+res = x + y
+
+print(res)
